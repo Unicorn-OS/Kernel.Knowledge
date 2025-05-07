@@ -12,3 +12,4 @@ https://en.wikipedia.org/wiki/Exokernel#See_also
 - https://en.wikipedia.org/wiki/Rump_kernel
 - https://en.wikipedia.org/wiki/Unikernel
 - https://en.wikipedia.org/wiki/BareMetal
+- https://en.wikipedia.org/wiki/Single_address_space_operating_system
